@@ -62,6 +62,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: LinkedIn
+  url: https://www.linkedin.com/company/oscar-health
+- type: Corporate
+  url: https://www.oscar-health.com
 - type: DomainSecurity
   url: security/oscar-domain-security.yml
 - type: Website
